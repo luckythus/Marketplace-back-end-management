@@ -1,7 +1,15 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 觉得对你有帮助的可以给我免费点个star~
 
-## Recommended IDE Setup
+## 仅提供交流学习用
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## npm install
+## npm run dev
+
+## 登录账号和密码一样
+admin
+
+## 分销模块做成了404页面
+
+## 一些数据被后端权限限制了，可以自己新增数据去操作或者操作其他数据
