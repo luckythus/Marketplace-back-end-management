@@ -1,9 +1,5 @@
 # Vue 3 + Vite
 
-## 觉得对你有帮助的可以给我免费点个star~
-
-## 仅提供交流学习用
-
 ## npm install
 ## npm run dev
 
